@@ -1,9 +1,9 @@
 ## Programming Fundamental - Program
 Programming Fundamental (01076103), Computer Engineering 60 at KMITL.
 
-> The design and implementation of software using object-oriented programming techniques that include objects, class, polymorphism, exception handling, inheritance and interfaces, Computer Engineering 60 at KMITL.
+> The design and implementation of software using object-oriented programming techniques that include objects, class, polymorphism, exception handling, inheritance and interfaces.
 
-## List for All Program
+# List for All Program
 - [Lab 1 Charlieplexing](lab-1)
 - [Lab 2 Priority Switch](lab-2)
 - [Lab 3 Number Guessing](lab-3)
