@@ -15,19 +15,19 @@ Programming Fundamental (01076103), Computer Engineering 60 at KMITL.
 - Week 3
   - [Program 1](lab-1)
   - [Program 2](lab-2)
- - Week 4
+- Week 4
   - [Program 1](lab-1)
   - [Program 2](lab-2)
 - Week 5
   - [Program 1](lab-1)
   - [Program 2](lab-2)
- - Week 6
+- Week 6
   - [Program 1](lab-1)
   - [Program 2](lab-2)
 - Week 7
   - [Program 1](lab-1)
   - [Program 2](lab-2)
- - Week 8
+- Week 8
   - [Program 1](lab-1)
   - [Program 2](lab-2)
 - Week 9
