@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/Jan/Desktop/ce-kmitl-1:1/programming-fundamental-programs/Program-1/item-1",
+      "program": "/Users/Jan/Desktop/ce-kmitl-1:1/programming-fundamental-programs/Program-1/item-1/build/Debug/outDebug"
+    }
+  ]
+}
