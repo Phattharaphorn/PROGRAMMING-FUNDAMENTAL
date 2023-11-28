@@ -6,12 +6,29 @@ Programming Fundamental (01076103), Computer Engineering 60 at KMITL.
   > Collection of various programs each week about object-oriented programming implemented in C for practical purposes.
 
 ## List for All Program
-- [Lab 1 Charlieplexing](lab-1)
-- [Lab 2 Priority Switch](lab-2)
-- [Lab 3 Number Guessing](lab-3)
-- [Lab 4 Pong Game](lab-4)
-- [Lab 5 Finite State Machine](lab-5)
-- [Lab 6 Serial Communication](lab-6)
-- [Lab 7 Mini Clock](lab-7)
-- [Lab 8 FreeRTOS1](lab-8)
-- [Lab 9 FreeRTOS2](lab-9)
+- [Week 1 Program 1](lab-1)
+- [Week 1 Program 2](lab-2)
+  
+- [Week 2 Program 1](lab-3)
+- [Week 2 Program 2](lab-4)
+  
+- [Week 3 Program 1](lab-5)
+- [Week 3 Program 2](lab-6)
+
+- [Week 4 Program 1](lab-7)
+- [Week 4 Program 2](lab-8)
+
+- [Week 5 Program 1](lab-7)
+- [Week 5 Program 2](lab-8)
+
+- [Week 6 Program 1](lab-7)
+- [Week 6 Program 2](lab-8)
+
+- [Week 7 Program 1](lab-7)
+- [Week 7 Program 2](lab-8)
+
+- [Week 8 Program 1](lab-7)
+- [Week 8 Program 2](lab-8)
+
+- [Week 9 Program 1](lab-7)
+- [Week 9 Program 2](lab-8)
