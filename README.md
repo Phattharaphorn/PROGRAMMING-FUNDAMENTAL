@@ -1,3 +1,8 @@
+<p align="center">
+ <img src="https://media.giphy.com/media/dvUH0SG7Lfdh2uRHE0/giphy.gif" width="30%" height="190" alt="Program gif"/>
+</p>
+
+
 # Programming Fundamental - Program
 Programming Fundamental (01076103), Computer Engineering 60 at KMITL.
 
