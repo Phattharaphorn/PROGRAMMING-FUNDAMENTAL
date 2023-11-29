@@ -6,7 +6,7 @@ Programming Fundamental (01076103), Computer Engineering 60 at KMITL.
   > **Note:** This collection of various programs each week about object-oriented programming is implemented in C and C++ for practical purposes.
 
 
-## List all programs scheduled between weeks 2 and 9 of the semester
+## List all programs in class  
 - Week 2
   - [Program 1](week-2-program-1)
   - [Program 2](week-2-program-2)
