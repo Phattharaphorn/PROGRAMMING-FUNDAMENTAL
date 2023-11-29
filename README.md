@@ -3,7 +3,7 @@ Programming Fundamental (01076103), Computer Engineering 60 at KMITL.
 
 - The design and implementation of software using object-oriented programming techniques that include objects, class, polymorphism, exception handling, inheritance and interfaces.
 
-  > Collection of various programs each week about object-oriented programming implemented in C for practical purposes.
+  > Collection of various programs each week about object-oriented programming implemented in C and C++ for practical purposes.
 
 ## List for All Program
 - Week 2
@@ -31,4 +31,4 @@ Programming Fundamental (01076103), Computer Engineering 60 at KMITL.
   - [Program 1](week-9-program-1)
   - [Program 2](week-9-program-2)
 
-- Learning 
+## Learning Resources
