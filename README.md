@@ -6,7 +6,7 @@
 # Programming Fundamental - Program
 Programming Fundamental (01076103), Computer Engineering 60 at KMITL.
 
-- This repository is a collection of developed in a **C** and **C++** using **object-oriented** **programming** **techniques** that include objects, class, polymorphism, exception handling, inheritance, and interfaces.
+- This repository is a collection developed in **C** and **C++** using **object-oriented** **programming** **techniques** that include objects, class, polymorphism, exception handling, inheritance, and interfaces.
 
 
 ## List all the program  
